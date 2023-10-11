@@ -1,0 +1,217 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 525,
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+          "genre_ids": [
+            28,
+            878,
+            12
+          ],
+          "id": 27205,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "Inception",
+          "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+          "popularity": 72.888,
+          "poster_path": "/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+          "release_date": "2010-07-15",
+          "title": "Inception",
+          "video": false,
+          "vote_average": 8.4,
+          "vote_count": 34513
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+          "genre_ids": [
+            12,
+            18,
+            878
+          ],
+          "id": 157336,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "Interstellar",
+          "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+          "popularity": 132.297,
+          "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+          "release_date": "2014-11-05",
+          "title": "Interstellar",
+          "video": false,
+          "vote_average": 8.4,
+          "vote_count": 32586
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+          "genre_ids": [
+            18,
+            28,
+            80,
+            53
+          ],
+          "id": 155,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "The Dark Knight",
+          "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+          "popularity": 110.984,
+          "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+          "release_date": "2008-07-16",
+          "title": "The Dark Knight",
+          "video": false,
+          "vote_average": 8.511,
+          "vote_count": 30636
+        }
+      ],
+      "known_for_department": "Directing",
+      "name": "Christopher Nolan",
+      "original_name": "Christopher Nolan",
+      "popularity": 37.913,
+      "profile_path": "/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4066940,
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+            878,
+            53
+          ],
+          "id": 1127782,
+          "media_type": "movie",
+          "original_language": "te",
+          "original_title": "Chandamama raave ASAP",
+          "overview": "FILM written and Directed by FILMAIN",
+          "popularity": 0.6,
+          "poster_path": "/fm90M2DbAUr8YkzkxRxRAHAA7Sx.jpg",
+          "release_date": "2021-07-02",
+          "title": "Chandamama raave ASAP",
+          "video": false,
+          "vote_average": 0.0,
+          "vote_count": 0
+        }
+      ],
+      "known_for_department": "Acting",
+      "name": "Christopher Nolan",
+      "original_name": "Christopher Nolan",
+      "popularity": 0.6,
+      "profile_path": null
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1097178,
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+          "genre_ids": [
+            28,
+            12,
+            878
+          ],
+          "id": 330459,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "Rogue One: A Star Wars Story",
+          "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+          "popularity": 57.816,
+          "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+          "release_date": "2016-12-14",
+          "title": "Rogue One: A Star Wars Story",
+          "video": false,
+          "vote_average": 7.489,
+          "vote_count": 14355
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/xtKsxEoXE6AR4X9ZSn3y0tDHJIA.jpg",
+          "genre_ids": [
+            18
+          ],
+          "id": 625884,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "Lynn + Lucy",
+          "overview": "Lynn and Lucy are lifelong best friends, their relationship as intense as any romance. Neither has ventured far from where they grew up. Lynn, who married her first boyfriend and whose daughter is fast growing up, is delighted when the charismatic, volatile Lucy has her first baby boy. Lucy, however, does not react to being a mother as Lynn expects. Soon, they find their friendship is tested in extreme circumstances.",
+          "popularity": 2.33,
+          "poster_path": "/bZ4YYC8En469TOgEYwXBcFz35fs.jpg",
+          "release_date": "2019-09-22",
+          "title": "Lynn + Lucy",
+          "video": false,
+          "vote_average": 6.4,
+          "vote_count": 13
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/hLqezDDJB4Pjbk1w35OUIrw9keJ.jpg",
+          "genre_ids": [
+            18
+          ],
+          "id": 133448,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "Macbeth",
+          "overview": "Renowned Shakespearean actor Patrick Stewart features as the eponymous anti-hero in this Soviet-era adaptation of one of Shakespeare's darkest and most powerful tragedies.",
+          "popularity": 5.547,
+          "poster_path": "/yB8oGQbcVR2SJoopvmOGoEaloXE.jpg",
+          "release_date": "2010-12-12",
+          "title": "Macbeth",
+          "video": false,
+          "vote_average": 7.0,
+          "vote_count": 29
+        }
+      ],
+      "known_for_department": "Acting",
+      "name": "Christopher Patrick Nolan",
+      "original_name": "Christopher Patrick Nolan",
+      "popularity": 1.42,
+      "profile_path": "/7xy74GTKm9JTVf3fErsNluQ1mrF.jpg"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2526416,
+      "known_for": [
+        {
+          "adult": false,
+          "backdrop_path": null,
+          "genre_ids": [
+            99
+          ],
+          "id": 222625,
+          "media_type": "movie",
+          "original_language": "en",
+          "original_title": "3.11: Surviving Japan",
+          "overview": "True story of an American volunteer who discovered the unvarnished truth about the Fukushima nuclear disaster cover-up while living in Japan. A critical look at how the authorities handled the nuclear crisis and Tsunami relief by an American who volunteered in the clean-up.",
+          "popularity": 0.84,
+          "poster_path": null,
+          "release_date": "2013-03-11",
+          "title": "3.11: Surviving Japan",
+          "video": false,
+          "vote_average": 10.0,
+          "vote_count": 1
+        }
+      ],
+      "known_for_department": "Directing",
+      "name": "Christopher Noland",
+      "original_name": "Christopher Noland",
+      "popularity": 0.6,
+      "profile_path": null
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}
