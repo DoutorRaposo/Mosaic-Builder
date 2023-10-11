@@ -81,7 +81,7 @@ def make_mosaic(path_image, pathdir_name, details, tile_factor, scale_percent):
 
     cv2.imwrite("photomosaics" + "/" + details["name"] + ".jpg", main_image)
     print(
-        f"Processing finished. The image is in the photomosacs directory in the same folder as the app and is named {details['name']}.jpg."
+        f"Processing finished. The image is in the photomosaics directory in the same folder as the app and is named {details['name']}.jpg."
     )
 
 
